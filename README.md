@@ -1,0 +1,2 @@
+# IMDb-sentiment-analysis
+Sentiment analysis on a dataset of movie reviews from the IMDb(Internet Movie Database) website available at http://ai.stanford.edu/~amaas/data/sentiment. This dataset contains the text of the reviews, together with a label that indicates whether a review is positive or negative. The IMDb website itself provides ratings from 1 to 10. In this modelling it is treated as a binary classification where reviews with a score greater than or equal to  6 are treated as positive and the rest are treated as negative. 
